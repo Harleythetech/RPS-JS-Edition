@@ -32,7 +32,7 @@ async function main() {
 
 
         console.clear();
-        console.log(`Initializing Rock Paper Scissors.... \nCreated by Group 9 - ${version} \n\nRelease: https://github.com/Harleythetech/RPS-Game/releases/latest`);
+        console.log(`Initializing Rock Paper Scissors.... \nCreated by @Harleythetech - ${version} \n\nRelease: https://github.com/Harleythetech/RPS-JS-Edition`);
 
         do{
         console.clear();
